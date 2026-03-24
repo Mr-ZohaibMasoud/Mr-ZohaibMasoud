@@ -1,12 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-Conversations
-5% of 15 GB used
-Terms · Privacy · Program Policies
-Last account activity: 2 hours ago
-Details
 # 💫 About Me:
 🔭 I’m currently working on Gen AI project <br>👯 I’m a Computer Science student & Frontend developer <br>🤝 I’m looking for help with carrier guidance <br>🌱 I’m currently learning Backend on advance level<br>💬 Ask me about my projects 
 
@@ -25,5 +16,3 @@ Details
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Mr-Zohaibmasoud_profileCode.md
-Displaying Mr-Zohaibmasoud_profileCode.md.
